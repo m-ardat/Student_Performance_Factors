@@ -14,7 +14,7 @@
 
 **Данный репозиторий содержит**:
 - `EDA_Student_Performance_Factors.ipynb` - разведочный анализ данных (EDA);
-- дашборд, размещенный на площадке [streamlit]().
+- дашборд, размещенный на площадке [streamlit](https://studentperformancefactors-nfxnjxch6h4suwspsth2nw.streamlit.app/).
 
 ## Содержание
 - [Описание проекта](#описание-проекта)
